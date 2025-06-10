@@ -25,6 +25,10 @@ Calculates transaction fees based on 1.5% of the amount, with minimum and maximu
 3. Open the `index.html` file in a modern web browser.
 4. Follow the prompt and check the browser’s console (Inspect > Console) for results.
 
+
+Author Aaaqil Wesr licence GNU
+
+
 ---
 
 ## Technologies
