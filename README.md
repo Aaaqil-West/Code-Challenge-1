@@ -1,5 +1,3 @@
----
-
 ## Challenges
 
 ### 1. Kenyan Chai Calculator (`chaiCalculator/`)
